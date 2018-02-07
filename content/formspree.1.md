@@ -1,12 +1,9 @@
 +++
-title = "Register"
-weight = 40
-draft = false
+title = "Formspree"
+weight = 60
+menuname = "Contact 2"
+draft = true
 +++
-
-レジュメを添付の上、ご登録ください。
-
-
 
 <form id="contactform" method="post" action="https://formspree.io/busi.base.tk@gmail.com">
 	<div class="field half first">
@@ -17,7 +14,6 @@ draft = false
 	</div>
 	<div class="field">
 		<textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
-		<input type="file" name="attachment"> 
 	</div>
 	<ul class="actions">
 		<li><input type="submit" value="Send message" class="special" /></li>
@@ -44,4 +40,3 @@ $(document).ready(function($) {
 
 
 {{< socialLinks >}}
-
