@@ -10,7 +10,7 @@ disableKinds=["RSS"]
   description = '<!--[-->新卒の方向けに、ハイクラスな新卒ポジションを提供<!--]--><br />
                 <!--[--><!--]-->'
   logo = "fa-diamond"
-  copyright = "Untitled"
+  copyright = "Busibasehunt"
 
 [[params.social]]
   medium = "twitter"
